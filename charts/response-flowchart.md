@@ -17,10 +17,10 @@
                  │
                  ▼
         ┌─────────────────┐      ┌─────────────────────┐
-        │ Did I witness   │  NO  │ STOP. Get qualified │
-        │ it, or hear     │─────►│ before responding.  │
-        │ from PRIMARY    │      │ Any action now =    │
-        │ SOURCES?        │      │ over-response.      │
+        │ Have I TALKED   │  NO  │ STOP. Get qualified │
+        │ to the people   │─────►│ before responding.  │
+        │ involved and    │      │ Any action now =    │
+        │ VERIFIED?       │      │ over-response.      │
         └────────┬────────┘      └─────────────────────┘
                  │ YES
                  ▼
@@ -69,7 +69,7 @@
 
 ```
 1. PAUSE
-2. PRIMARY SOURCES? (Did I witness it or talk to people involved? If NO → STOP)
+2. VERIFIED? (Have I talked to the people involved? If NO → STOP)
 3. SEVERITY? (Low / Medium / High)
 4. TYPE? (Malicious / Accident / Fawning)
 5. NOW or PAST? (Check your trauma)

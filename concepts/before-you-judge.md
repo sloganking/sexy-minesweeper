@@ -33,15 +33,40 @@ Before you judge someone, before you assess [severity](./severity.md), before yo
 
 ### The Checklist
 
-| Question                                       | If No...                         |
-| ---------------------------------------------- | -------------------------------- |
-| Did I witness it myself?                       | Your opinion is based on hearsay |
-| Have I talked to the people directly involved? | You're missing primary sources   |
-| Have I heard from _all_ sides?                 | You only have part of the story  |
-| Is my source biased? (angry, hurt, has stakes) | Their account may be distorted   |
-| Was my source even there?                      | They're passing on gossip        |
+| Question                                       | If No...                                    |
+| ---------------------------------------------- | ------------------------------------------- |
+| Have I talked to the people directly involved? | You're missing primary sources              |
+| Have I heard from _all_ sides?                 | You only have part of the story             |
+| Have I verified my interpretation with them?   | Your story about what happened may be wrong |
+| Is my source biased? (angry, hurt, has stakes) | Their account may be distorted              |
+| Was my source even there?                      | They're passing on gossip                   |
 
 **If you answered "no" to these, your opinion is unqualified.**
+
+### Witnessing Isn't Enough
+
+Even if you saw something with your own eyes, you are not automatically qualified.
+
+Why? Because the moment you witness something, you create a **story** about what you saw. And that story is filtered through your biases, assumptions, and trauma.
+
+You might see:
+
+- Two people interacting
+- One person looking upset
+- The other person leaving
+
+And you create a story: "That person did something wrong."
+
+But you don't know:
+
+- What was said
+- What was agreed to beforehand
+- What either person was actually feeling
+- Whether your interpretation matches reality
+
+**Witnessing is raw data. Your interpretation of that data can be completely wrong.**
+
+The only way to know if your story is true is to **verify with the people involved**. If you haven't done that, you don't actually know what happened—you just have a story you made up.
 
 You don't know what to believe yet. And that's okay—it's honest.
 
