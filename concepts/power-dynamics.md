@@ -34,12 +34,11 @@ When you don't recognize your power:
 
 ## Power Goes Both Ways
 
-<!-- prettier-ignore -->
-| Traditional View | Reality |
-|------------------|---------|
+| Traditional View                       | Reality                               |
+| -------------------------------------- | ------------------------------------- |
 | Facilitator has power over participant | Participant can also harm facilitator |
-| Authority figure is always "up" | Authority figures can be vulnerable |
-| Victim has no power | Victim status can be weaponized |
+| Authority figure is always "up"        | Authority figures can be vulnerable   |
+| Victim has no power                    | Victim status can be weaponized       |
 
 This doesn't mean victims aren't real or that power imbalances don't exist.
 

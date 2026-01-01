@@ -28,12 +28,11 @@ Examples:
 
 ### Severity Levels
 
-<!-- prettier-ignore -->
-| Activity | Severity |
-|----------|----------|
-| Holding a gun | HIGH |
-| Touching/intimacy at a play party | MEDIUM |
-| Conversation | LOW |
+| Activity                          | Severity |
+| --------------------------------- | -------- |
+| Holding a gun                     | HIGH     |
+| Touching/intimacy at a play party | MEDIUM   |
+| Conversation                      | LOW      |
 
 ### The Logic
 

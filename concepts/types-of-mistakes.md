@@ -8,33 +8,30 @@ Not all mistakes are the same. Understanding the TYPE helps determine the approp
 
 ## By Intent
 
-<!-- prettier-ignore -->
-| Type | Description | Response |
-|------|-------------|----------|
-| **Malicious** | Intentional harm | Accountability, consequences |
-| **Accident** | Unintentional, unconscious | Education, awareness |
-| **Fawning** | Person said yes but meant no | Complex — see [Fawning](./fawning.md) |
+| Type          | Description                  | Response                              |
+| ------------- | ---------------------------- | ------------------------------------- |
+| **Malicious** | Intentional harm             | Accountability, consequences          |
+| **Accident**  | Unintentional, unconscious   | Education, awareness                  |
+| **Fawning**   | Person said yes but meant no | Complex — see [Fawning](./fawning.md) |
 
 ## By Awareness
 
-<!-- prettier-ignore -->
-| Type | Description |
-|------|-------------|
-| **Conscious, wrong thinking** | They were thinking, but thinking wrong |
+| Type                          | Description                                                                         |
+| ----------------------------- | ----------------------------------------------------------------------------------- |
+| **Conscious, wrong thinking** | They were thinking, but thinking wrong                                              |
 | **Unconscious, not thinking** | Autopilot, sleepy, careless — the [Popcorn](../tools/popcorn-metaphor.md) situation |
 
 ## Additional Types
 
-<!-- prettier-ignore -->
-| Type | Description |
-|------|-------------|
-| **Freezing** | Person went silent/still, didn't communicate |
-| **Miscommunication** | Both thought they understood, neither did |
-| **Assumption** | Acting on what you *think* someone wants |
-| **Boundary Drift** | Gradual creep past lines without noticing |
-| **Negotiation Failure** | Agreement existed but wasn't specific enough |
-| **Aftercare Failure** | Act was consensual, aftermath was neglected |
-| **Projection** | Treating someone based on your past, not their present |
+| Type                    | Description                                            |
+| ----------------------- | ------------------------------------------------------ |
+| **Freezing**            | Person went silent/still, didn't communicate           |
+| **Miscommunication**    | Both thought they understood, neither did              |
+| **Assumption**          | Acting on what you _think_ someone wants               |
+| **Boundary Drift**      | Gradual creep past lines without noticing              |
+| **Negotiation Failure** | Agreement existed but wasn't specific enough           |
+| **Aftercare Failure**   | Act was consensual, aftermath was neglected            |
+| **Projection**          | Treating someone based on your past, not their present |
 | **Delayed Realization** | Consented in the moment, realized later it wasn't okay |
 
 ## The Matrix

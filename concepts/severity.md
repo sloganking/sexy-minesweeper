@@ -8,12 +8,11 @@ How serious is the harm caused? This determines how serious the response should 
 
 ## The Scale
 
-<!-- prettier-ignore -->
-| Level | Description | Examples |
-|-------|-------------|----------|
-| **HIGH** | Permanent harm. Physical or non-physical (reputation, options, safety). | Injury, public shaming, blacklisting |
-| **MEDIUM** | Temporary pain. Recoverable. | Unwanted touch, emotional hurt, boundary crossed |
-| **LOW** | Inconvenience. No one really hurt. | Awkwardness, miscommunication, minor discomfort |
+| Level      | Description                                                             | Examples                                         |
+| ---------- | ----------------------------------------------------------------------- | ------------------------------------------------ |
+| **HIGH**   | Permanent harm. Physical or non-physical (reputation, options, safety). | Injury, public shaming, blacklisting             |
+| **MEDIUM** | Temporary pain. Recoverable.                                            | Unwanted touch, emotional hurt, boundary crossed |
+| **LOW**    | Inconvenience. No one really hurt.                                      | Awkwardness, miscommunication, minor discomfort  |
 
 ## Visual (for easel)
 

@@ -6,7 +6,6 @@ A system for understanding mistakes, responsibility, and repair in somatic/intim
 
 ## Core Concepts
 
-<!-- prettier-ignore -->
 | Concept                                                    | Description                                |
 | ---------------------------------------------------------- | ------------------------------------------ |
 | [Severity](./concepts/severity.md)                         | How serious is the harm? (High/Medium/Low) |
@@ -22,7 +21,6 @@ A system for understanding mistakes, responsibility, and repair in somatic/intim
 
 ## Teaching Tools
 
-<!-- prettier-ignore -->
 | Tool                                            | Use For                         |
 | ----------------------------------------------- | ------------------------------- |
 | [Gun Test](./tools/gun-test.md)                 | Self-check before play          |
@@ -33,7 +31,6 @@ A system for understanding mistakes, responsibility, and repair in somatic/intim
 
 ## Visual Charts
 
-<!-- prettier-ignore -->
 | Chart                                                | Description                     |
 | ---------------------------------------------------- | ------------------------------- |
 | [Severity Scale](./charts/severity-scale.md)         | Vertical scale for easel        |
