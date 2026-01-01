@@ -72,6 +72,22 @@ Bystanders read this as confirmation: "See, they're apologizing, they must have 
 
 **Apology is not admission of guilt.** It may be a trauma response.
 
+### The Hidden Disagreement
+
+Here's what bystanders don't see: the person fawning may **completely disagree** that they deserve what's happening.
+
+If the accuser feels like a genuine threat—someone who could hurt their reputation, rally others against them, or escalate further—the fawner's survival instinct kicks in. They appease. They don't stand up for themselves. They just try to get through the moment alive.
+
+Internally, they may be thinking:
+
+- "This is bullshit, but I'm scared"
+- "They're overreacting, but they're too angry to hear me"
+- "If I push back, this gets worse"
+
+So they apologize. Not because they agree. Because they're afraid.
+
+**Apology under threat is not agreement. It's survival.**
+
 ## What To Do Instead
 
 ### If you're a bystander:
