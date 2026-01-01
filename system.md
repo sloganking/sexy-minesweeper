@@ -1,12 +1,12 @@
 ## Severity
 
-- High (Gun, perminant wound)
+- High (Gun, perminant harm, can be physical or non physical like hurting someone's reputation and options)
 - Medium (Temporary pain)
 - Low (Inconvenient, no one really hurt)
 
 ## Types of mistakes
 
-- Malicious
+- Malicious/intentional
 - Accident
 - Fawning
 
@@ -64,6 +64,14 @@ When a mistake occurs, rather than blaming someone and attacking them and trying
 
 When you're making it right, and you're taking actions instead of just apologizing with words, the person receiving you're making it right may want some things and not others. They may just not want communication at all, and at that point, respecting their wishes and not communicating is taking the actions to make it right. Even though it might not feel satisfying, because you might have wanted to give more than that.
 
-## We usually create 100% of the outcome.
+## We usually control 100% of the outcome.
 
 It takes two to dance, and when something you don't want occurs when you were interacting with another person, There are multiple people who played a part in creating that outcome. However, it takes two to dance, and the majority of the time, even though there were multiple people who took part in creating the outcome, you have the power to influence 100% of the outcome. If somebody invites you to dance, you both have to say yes in order for the dance to happen. If either of you say no, the dance doesn't happen. That's what 100% control of the outcome means. In recognizing this, you see that you don't have just part of the power. Oftentimes, you have all the power to create the reality that you want. This does not abdicate other participants from responsibility. Everyone, via action or inaction, created what happened. It's just a way of recognizing your own power. Showing you how in the future you can create what you want. Even in the face of actors who have other goals and may want different things. It's showing you how you can create your own safety.
+
+## Severity test tool - Would I do this with a gun?
+
+If you are about to interact and play with another person, ask yourself, Would I be engaging in this level of play and interaction if I was being handed a live gun? If the answer is no, then answer why, a.k.a. I took sleeping medication and I'm tired, my mood and mind are not in the thinking space of integrity that I'd require to let myself hold a gun. etc.. Then, ask yourself, Does the reason I wouldn't let myself hold a gun right now and interact with high severity also apply to my current level of severity? If you're at a play party, interacting and touching other humans, that severity is medium. If it does, a.k.a., I'm on sleeping medication and tired, so I wouldn't let myself hold a gun. And, you know, thinking about it, I shouldn't be touching people. And, while tired and risk making mistakes either. Then politely disenguage.
+
+### Iron Giant film
+
+https://photos.app.goo.gl/3ZyB4dvqFej34N3p6
